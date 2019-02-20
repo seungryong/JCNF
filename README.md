@@ -10,7 +10,7 @@ This code is written in MATLAB, and implements the JCNF descriptor [[website](ht
   - Download [[VLFeat](http://www.vlfeat.org/)] and [[MatConvNet](http://www.vlfeat.org/matconvnet/)].
   - Download the datasets:
     - [[MPI-SINTEL Benchmark](http://sintel.is.tue.mpg.de/)] 
-([external link(https://drive.google.com/open?id=1K_8wnyc2fvxT9tlzCUaRapz0zm6k0sjL)]);
+([[external link](https://drive.google.com/open?id=1K_8wnyc2fvxT9tlzCUaRapz0zm6k0sjL)]);
 
 ## Getting started ##
   - `Global_Depth_Network`: scripts for learning global depth network
